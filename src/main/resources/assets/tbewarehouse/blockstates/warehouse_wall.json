@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"type=wood": { "model": "tbewarehouse:warehouse_wall_wood" },
+		"type=iron": { "model": "tbewarehouse:warehouse_wall_iron" }
+	}
+}

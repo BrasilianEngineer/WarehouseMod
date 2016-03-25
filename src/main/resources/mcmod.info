@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tbewarehouse",
+  "name": "TBE's Warehouse Mod",
+  "description": "Adds a Multi-Block Warehouse Storage",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["The Brasilian Engineer"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "tbewarehouse:blocks/warehouse_wall_iron_all"
+	}
+}

@@ -1,0 +1,6 @@
+item.multi_tool.name=Multi Tool
+tile.warehouse_frame.wood.name=Wooden Warehouse Frame
+tile.warehouse_frame.iron.name=Iron Warehouse Frame
+tile.warehouse_wall.wood.name=Wooden Warehouse Wall
+tile.warehouse_wall.iron.name=Iron Warehouse Wall
+tile.warehouse_buffer.name=Warehouse Buffer
